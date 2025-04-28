@@ -297,5 +297,5 @@ interval_entries["day"].insert(0,1)
 load_button = tk.Button(root, text="update figure", command=update_figures)
 load_button.pack(side=tk.LEFT)
 
-
+# chris test
 root.mainloop()
